@@ -1,6 +1,6 @@
 [
 	// LOTR
-	{"score": 5, "chance": 5, "data":[
+	{"score": 5, "chance": 4, "data":[
 			["Bilbo"			,8],
 			["Gimli"			,7],
 			["Ori"				,6],
@@ -17,12 +17,17 @@
 			["Meor"				,6],
 			["Fav"				,8],
 			["Jokie"			,8],
+			["Lut"				,7],
 			["Froufrou"			,7]]},
 	// DevFriends
+	{"score": 8, "chance": 8, "data":[
+			["Mo"				,8]]},
+	// Friends
 	{"score": 8, "chance": 8, "data":[
 			["Jegs"				,6],
 			["Roro"				,7],
 			["Rouge"			,7],
+			["Gyom"				,7],
 			["Gil"				,5],
 			["Onurb"			,7],
 			["Runo"				,8]]},
@@ -30,8 +35,11 @@
 			["Crouta"			,9],
 			["Simpli"			,9]]},
 	// Nintendo
-	{"score": 8, "chance": 6, "data":[
+	{"score": 8, "chance": 5, "data":[
 			["Deekay"			,5],
+			["Lonk"				,7],
+			["Petch"			,6],
+			["Tood"				,6],
 			["Lario"			,7],
 			["Muigi"			,8],
 			["Goumba"			,8]]},
@@ -45,6 +53,8 @@
 	{"score": 7, "chance": 8, "data":[
 			["Phong"			,6],
 			["Perlin"			,7],
+			["Woz"				,8],
+			["Conway"			,7],
 			["Worley"			,5]]},
 	// Ghosts
 	{"score": 6, "chance": 8, "data":[
@@ -58,12 +68,19 @@
 			["Timon"			,7],
 			["Pumba"			,6]]},
 	// Food
-	{"score": 9, "chance": 7, "data":[
+	{"score": 9, "chance": 5, "data":[
 			["Poirot"			,8],
 			["Haribo"			,6],
 			["Beigne"			,7],
 			["Kiwi"				,7],
+			["Crouton"			,7],
+			["Spag"				,8],
+			["Raviol"			,6],
+			["Radis"			,7],
 			["Sardine"			,7],
+			["Bagel"			,8],
+			["Luzerne"			,6],
+			["Beurre"			,7],
 			["Celeri"			,8]]},
 	{"score": 8, "chance": 9, "data":[
 			["Spirou"			,6],
@@ -108,7 +125,7 @@
 			["Plouf"			,8],
 			["Denis"			,6]]},
 	// LastAirbender
-	{"score": 7, "chance": 7, "data":[
+	{"score": 7, "chance": 6, "data":[
 			["Ang"				,5],
 			["Korra"			,6],
 			["Sokka"			,7]]},
@@ -121,6 +138,7 @@
 			["Vcimdarf"			,5],
 			["Choken"			,6],
 			["Zanar"			,6],
+			["Florian"			,6],
 			["Niagaros"			,6]]},
 	// Places
 	{"score": 6, "chance": 7, "data":[
@@ -131,8 +149,118 @@
 	// ProgrammingLanguages
 	{"score": 6, "chance": 7, "data":[
 			["Midi"				,6],
+			["Java"				,5],
+			["Piton"			,7],
 			["Json"				,5],
 			["Jenkins"			,6]]},
+	// FamousGamedevs
+	{"score": 6, "chance": 5, "data":[
+			["Gaben"			,7],
+			["Cliffy"			,8],
+			["Moly"				,7],
+			["Sid"				,9],
+			["Redge"			,8],
+			["Shigeru"			,6],
+			["Jade"				,7],
+			["Wright"			,6],
+			["Levine"			,5],
+			["Tim"				,8],
+			["Jon"				,8],
+			["Brenda"			,7],
+			["Koji"				,7],
+			["Carmak"			,5],
+			["Romero"			,6]]},
+	// StarOuarze
+	{"score": 6, "chance": 5, "data":[
+			["Artou"			,6],
+			["Pyo"				,8],
+			["Luque"			,7],
+			["Han"				,7],
+			["Leya"				,6],
+			["Chouie"			,8],
+			["Rankor"			,7],
+			["Biwan"			,8],
+			["Yauda"			,6],
+			["Biggs"			,8],
+			["Wedge"			,8],
+			["Wokie"			,6],
+			["Iwoke"			,5]]},
+	{"score": 8, "chance": 6, "data":[
+			["Dafte"			,7],
+			["Ponq"				,9]]},
+	// Sauces
+	{"score": 8, "chance": 4, "data":[
+			["Ketchup"			,8]]},
+	// RoundTable
+	{"score": 7, "chance": 5, "data":[
+			["Lance"			,6],
+			["Percy"			,6],
+			["Arthur"			,7]]},
+	// BikePolo
+	{"score": 7, "chance": 5, "data":[
+			["Dodi"				,7],
+			["Kremin"			,5],
+			["Polo"				,8],
+			["Lefty"			,6],
+			["Yorgo"			,7]]},
+	// Simpsons
+	{"score": 7, "chance": 5, "data":[
+			["Homer"			,6],
+			["Homie"			,7],
+			["Bort"				,7],
+			["Bart"				,6],
+			["Boourns"			,5],
+			["Snrub"			,5],
+			["Smithers"			,6]]},
+	// Clothing
+	{"score": 8, "chance": 5, "data":[
+			["Tuque"			,6],
+			["Mitaine"			,8],
+			["Foulard"			,6],
+			["Ponpon"			,7],
+			["Boots"			,8]]},
+	// Planets
+	{"score": 8, "chance": 5, "data":[
+			["Mercur"			,6],
+			["Pluton"			,8]]},
+	// NinjaTurtles
+	{"score": 7, "chance": 6, "data":[
+			["Leo"				,7],
+			["Donna"			,6],
+			["Angelo"			,6],
+			["Splint"			,7]]},
+	{"score": 6, "chance": 4, "data":[
+			["Vinci"			,6],
+			["Leonardo"				,5]]},
+	// Writers
+	{"score": 7, "chance": 6, "data":[
+			["Camus"			,6],
+			["Balzac"			,7],
+			["Duma"				,6],
+			["Ugo"				,7],
+			["Zola"				,6],
+			["Dada"				,6],
+			["Vian"				,6]]},
+	{"score": 6, "chance": 4, "data":[
+			["Dali"				,7],
+			["Salvador"			,6]]},
+	{"score": 6, "chance": 4, "data":[
+			["Shwifty"			,5],
+			["Morty"			,6],
+			["Rick"				,5]]},
+	// Colers
+	{"score": 7, "chance": 6, "data":[
+			["Bloo"				,7],
+			["Redd"				,6],
+			["Yelo"				,6],
+			["Greem"			,6],
+			["Wayt"				,5],
+			["Blaq"				,5],
+			["Orenge"			,5],
+			["Perpl"			,6],
+			["Penk"				,8]]},
+
+
 ["Randy"			,7],
 ["Bobo"				,8],
 ["Ba-Bing Baa"		,5],
@@ -312,116 +440,45 @@
 ["Quint"			,8],
 ["Matin"			,5],
 
-
-["Gaben"			,7],
-["Cliffy"			,8],
-["Moly"				,7],
-["Sid"				,9],
-["Redge"			,8],
-["Shigeru"			,6],
-["Jade"				,7],
-["Wright"			,6],
-["Levine"			,5],
-["Tim"				,8],
-["Jon"				,8],
-["Brenda"			,7],
-["Koji"				,7],
-["Carmak"			,5],
-["Romero"			,6],
 ["Marmo"			,7],
 ["Acon"				,7],
 ["Queval"			,6],
-["Artou"			,6],
-["Pyo"				,8],
-["Luque"			,7],
-["Han"				,7],
-["Leya"				,6],
-["Chouie"			,8],
-["Rankor"			,7],
-["Biwan"			,8],
-["Yauda"			,6],
-["Biggs"			,8],
-["Wedge"			,8],
-["Wokie"			,6],
-["Iwoke"			,5],
-["Florian"			,6],
-["Dafte"			,7],
-["Ponq"				,9],
-["Lut"				,7],
+
 ["Wob"				,8],
-["Woz"				,8],
+
 ["Pano"				,6],
 ["Goji"				,6],
-["Crouton"			,7],
-["Spag"				,8],
+
 ["Corniche"			,6],
 ["Lampe"			,6],
 ["Mister"			,7],
-["Radis"			,7],
-["Gyom"				,7],
-["Raviol"			,6],
+
 ["Mouton"			,7],
 ["Penebo"			,6],
 ["Poke"				,8],
-["Conway"			,7],
+
 ["Smorg"			,5],
-["Ketchup"			,8],
+
 ["Champ"			,7],
 ["Izno"				,5],
-["Lance"			,6],
-["Percy"			,6],
-["Arthur"			,7],
-["Dodi"				,7],
-["Kremin"			,5],
-["Polo"				,8],
-["Lefty"			,6],
-["Yorgo"			,7],
-["Homer"			,6],
-["Homie"			,7],
-["Bort"				,7],
-["Bart"				,6],
-["Boourns"			,5],
-["Snrub"			,5],
-["Smithers"			,6],
-["Bagel"			,8],
-["Beurre"			,7],
-["Mo"				,8],
-["Tuque"			,6],
-["Mitaine"			,8],
-["Foulard"			,6],
-["Ponpon"			,7],
-["Boots"			,8],
-["Luzerne"			,6],
+
+
 ["Tonton"			,7],
 ["Mononc"			,7],
 ["Matante"			,6],
 ["Monocle"			,5],
 ["Nomo"				,7],
-["Mercur"			,6],
-["Pluton"			,8],
+
 ["Bacchus"			,6],
-["Vinci"			,6],
-["Leo"				,7],
-["Donna"			,6],
-["Angelo"			,6],
-["Splint"			,7],
+
 ["Spencer"			,7],
 ["Oulipo"			,7],
-["Camus"			,6],
-["Balzac"			,7],
-["Duma"				,6],
-["Ugo"				,7],
-["Zola"				,6],
-["Dada"				,6],
-["Vian"				,6],
+
 ["Gino"				,6],
 ["Gina"				,6],
 ["Kakashi"			,5],
-["Dali"				,7],
-["Salvador"			,6],
-["Shwift"			,5],
-["Morti"			,6],
-["Ricq"				,5],
+
+
 ["Geniab"			,8],
 ["Babuleu"			,7],
 ["Merbeille"		,6],
@@ -435,21 +492,11 @@
 ["Poubelle"			,6],
 ["Frigo"			,6],
 ["Bobette"			,8],
-["Bloo"				,7],
-["Redd"				,6],
-["Yelo"				,6],
-["Greem"			,6],
-["Wayt"				,5],
-["Blaq"				,5],
-["Orenge"			,5],
-["Perpl"			,6],
-["Penk"				,8],
+
 ["Sauce"			,7],
 ["Boub"				,8],
 ["Boug"				,8],
-["Lonk"				,7],
-["Petch"			,6],
-["Tood"				,6],
+
 ["Orbit"			,7],
 ["Galax"			,6],
 ["Moun"				,6],
@@ -466,8 +513,10 @@
 ["Ziggy"			,7],
 ["Bowie"			,6],
 ["Houdini"			,6],
-["Java"				,5],
-["Piton"			,7],
+
+
+
+
 ["Chaloupe"			,6],
 ["Banquise"			,5],
 ["Poutine"			,7],
