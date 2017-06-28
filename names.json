@@ -14,13 +14,33 @@
 	// DevTeam
 	{"score": 8, "chance": 8, "data":[
 			["Calou"			,7],
+			["Evax"				,6],
 			["Meor"				,6],
 			["Fav"				,8],
 			["Jokie"			,8],
 			["Lut"				,7],
+			["Mym"				,8],
+			["Monzo"			,7],
+			["Beune"			,8],		
+			["Dovid"			,7],
+			["Shatojon"			,6],	
+			["Creton"			,5],
+			["Tanja"			,7],
+			["Menekis"			,7],
+			["Samhain"			,6],
+			["Rope"				,5],
+			["Walker"			,5],
 			["Froufrou"			,7]]},
 	// DevFriends
 	{"score": 8, "chance": 8, "data":[
+			["Raph"				,5],
+			["Osama"			,5],
+			["Maroda"			,5],
+			["Saleem"			,5],
+			["Renaud"			,5],
+			["Renaud"			,5],
+			["Poka"				,5],
+			["Moura"			,5],
 			["Mo"				,8]]},
 	// Friends
 	{"score": 8, "chance": 8, "data":[
@@ -44,7 +64,7 @@
 			["Muigi"			,8],
 			["Goumba"			,8]]},
 	// Musketeers
-	{"score": 8, "chance": 8, "data":[
+	{"score": 8, "chance": 6, "data":[
 			["Atos"				,7],
 			["Portos"			,8],
 			["Aramis"			,6],
@@ -74,6 +94,7 @@
 			["Beigne"			,7],
 			["Kiwi"				,7],
 			["Crouton"			,7],
+			["Steak"			,8],
 			["Spag"				,8],
 			["Raviol"			,6],
 			["Radis"			,7],
@@ -81,6 +102,7 @@
 			["Bagel"			,8],
 			["Luzerne"			,6],
 			["Beurre"			,7],
+			["Pogo"				,7],
 			["Celeri"			,8]]},
 	{"score": 8, "chance": 9, "data":[
 			["Spirou"			,6],
@@ -90,6 +112,7 @@
 			["Kerbal"			,8],
 			["Gomez"			,8],
 			["Ida"				,8],
+			["Celeste"			,7],
 			["Mimiga"			,7],
 			["Curly"			,7],
 			["Fez"				,8]]},
@@ -138,6 +161,8 @@
 			["Vcimdarf"			,5],
 			["Choken"			,6],
 			["Zanar"			,6],
+			["Sten"				,7],
+			["Miorpée"			,4],
 			["Florian"			,6],
 			["Niagaros"			,6]]},
 	// Places
@@ -159,7 +184,6 @@
 			["Cliffy"			,8],
 			["Moly"				,7],
 			["Sid"				,9],
-			["Redge"			,8],
 			["Shigeru"			,6],
 			["Jade"				,7],
 			["Wright"			,6],
@@ -185,9 +209,9 @@
 			["Wedge"			,8],
 			["Wokie"			,6],
 			["Iwoke"			,5]]},
-	{"score": 8, "chance": 6, "data":[
-			["Dafte"			,7],
-			["Ponq"				,9]]},
+	{"score": 7, "chance": 6, "data":[
+			["Dafte"			,6],
+			["Ponq"				,8]]},
 	// Sauces
 	{"score": 8, "chance": 4, "data":[
 			["Ketchup"			,8]]},
@@ -202,6 +226,10 @@
 			["Kremin"			,5],
 			["Polo"				,8],
 			["Lefty"			,6],
+			["Kamila"			,5],
+			["Tim"				,5],
+			["Oliv"				,5],
+			["Vince"			,5],
 			["Yorgo"			,7]]},
 	// Simpsons
 	{"score": 7, "chance": 5, "data":[
@@ -261,20 +289,19 @@
 			["Penk"				,8]]},
 
 
-["Randy"			,7],
+["Randy"			,8],
 ["Bobo"				,8],
 ["Ba-Bing Baa"		,5],
 ["Marchal"			,6],
 ["Lulu"				,4],
 ["Loupi"			,5],
 ["Lubie"			,4],
-
+["Redge"			,8],
 ["Baltrug"			,9],
 ["Juju"				,5],
 ["Sylvain"			,6],
 ["Bware"			,8],
 ["Timi"				,5],
-
 ["Beba"				,6],
 ["Marjo"			,6],
 ["Nana"				,4],
@@ -283,23 +310,19 @@
 ["Zeus"				,6],
 ["Oran"				,6],
 ["Flute"			,7],
-
 ["Jujube"			,8],
 ["Doop"				,7],
 ["Pipo"				,7],
 ["Banjo"			,8],
-
 ["Gaston"			,6],
 ["Bouba"			,8],
 ["Momo"				,8],
 ["Dingo"			,6],
 ["Memo"				,7],
 ["Nemo"				,6],
-
 ["Blug"				,8],
 ["Merlin"			,6],
 ["Puck"				,7],
-
 ["Bougre"			,9],
 ["Pom"				,8],
 ["Pong"				,7],
@@ -310,24 +333,19 @@
 ["Ralf"				,7],
 ["Boum"				,8],
 ["Squiggle"			,5],
-
 ["Mod"				,5],
 ["Woodbob"			,7],
 ["Planche"			,8],
-
 ["Aran"				,6],
-
 ["Banksy"			,5],
 ["Jojo"				,7],
 ["Joe"				,6],
-
 ["Ptr"				,7],
 ["Pepto"			,9],
 ["Oasis"			,6],
 ["Buster"			,5],
 ["Boul"				,7],
 ["Poros"			,6],
-
 ["Sisi"				,4],
 ["Oumba"			,6],
 ["Chouchou"			,5],
@@ -335,44 +353,35 @@
 ["Proto"			,7],
 ["Soka"				,6],
 ["Toa"				,7],
-["Tao"				,7],
+// Citées d'or
+["Tao"				,8],
+["Zia"				,8],
+["Esteban"			,6],
+// 
 ["Esope"			,6],
 ["Platon"			,6],
 ["Jacques Cartier"	,2],
 ["Bistro"			,4],
-
 ["Pomkin"			,7],
 ["Grabel"			,6],
 ["Spoutnik"			,7],
-
 ["Picsou"			,6],
 ["Snoro"			,6],
-
 ["Kid"				,8],
-
 ["Horcornor"		,4],
-
 ["Plume"			,6],
 ["Paleo"			,6],
 ["Mistik"			,4],
-
 ["Octo"				,7],
 ["Poire"			,8],
 ["Ppat"				,5],
 ["Ulga"				,5],
-
 ["Mouk"				,8],
-
 ["Odwn"				,5],
-
 ["Wiki"				,7],
-
 ["Maboul"			,7],
-
 ["Pinson"			,6],
 ["Klepto"			,7],
-["Pogo"				,7],
-
 ["Pingouin"			,4],
 ["Magoire"			,7],
 ["Molu"				,7],
@@ -396,10 +405,8 @@
 ["Ketsuban"			,5],
 ["Bachire"			,8],
 ["Tiamat"			,6],
-
 ["Darmo"			,5],
 ["Benmimi"			,4],
-
 ["Kansi"			,6],
 ["Dammy"			,5],
 ["Landy"			,5],
@@ -411,7 +418,6 @@
 ["Gabel"			,6],
 ["Bogo"				,7],
 ["Itchoutta"		,5],
-
 ["Bic"				,7],
 ["Wacom"			,7],
 ["Macom"			,6],
@@ -439,46 +445,32 @@
 ["Banc"				,8],
 ["Quint"			,8],
 ["Matin"			,5],
-
 ["Marmo"			,7],
 ["Acon"				,7],
 ["Queval"			,6],
-
 ["Wob"				,8],
-
 ["Pano"				,6],
 ["Goji"				,6],
-
 ["Corniche"			,6],
 ["Lampe"			,6],
 ["Mister"			,7],
-
 ["Mouton"			,7],
 ["Penebo"			,6],
 ["Poke"				,8],
-
 ["Smorg"			,5],
-
 ["Champ"			,7],
 ["Izno"				,5],
-
-
 ["Tonton"			,7],
 ["Mononc"			,7],
 ["Matante"			,6],
 ["Monocle"			,5],
 ["Nomo"				,7],
-
 ["Bacchus"			,6],
-
 ["Spencer"			,7],
 ["Oulipo"			,7],
-
 ["Gino"				,6],
 ["Gina"				,6],
 ["Kakashi"			,5],
-
-
 ["Geniab"			,8],
 ["Babuleu"			,7],
 ["Merbeille"		,6],
@@ -492,31 +484,30 @@
 ["Poubelle"			,6],
 ["Frigo"			,6],
 ["Bobette"			,8],
-
 ["Sauce"			,7],
 ["Boub"				,8],
 ["Boug"				,8],
-
+// Space stuff
 ["Orbit"			,7],
 ["Galax"			,6],
 ["Moun"				,6],
 ["Comet"			,7],
 ["Nebulus"			,6],
 ["Cosmos"			,7],
+// 
 ["Basil"			,7],
 ["Leonar"			,6],
+// 
 ["Pagus"			,7],
 ["Baclion"			,8],
 ["Jello"			,7],
 ["Tiguidou"			,6],
 ["Boucane"			,7],
+// 
 ["Ziggy"			,7],
 ["Bowie"			,6],
+// 
 ["Houdini"			,6],
-
-
-
-
 ["Chaloupe"			,6],
 ["Banquise"			,5],
 ["Poutine"			,7],
@@ -526,6 +517,7 @@
 ["Sorbet"			,6],
 ["Sirop"			,6],
 ["Ada"				,7],
+// 
 ["Picolo"			,8],
 ["Trompe"			,6],
 ["Tuba"				,8],
@@ -535,16 +527,20 @@
 ["Citare"			,5],
 ["Gong"				,6],
 ["Djembe"			,5],
+//
 ["Backo"			,6],
 ["Peks"				,7],
+["Chesbra"			,6],
+// 
 ["Quad"				,7],
 ["Vertex"			,6],
 ["Ngon"				,5],
 ["Poligon"			,5],
+// 
 ["Pico"				,8],
 ["Moldu"			,6],
 ["Dank"				,7],
-["Shep"				,8],
+
 ["Dinkle"			,7],
 ["Ocifer"			,5],
 ["Bana"				,7],
@@ -552,10 +548,7 @@
 ["Papi"				,8],
 ["Taco"				,9],
 ["Chipo"			,8],
-["Micmac"			,6],
-["Huron"			,7],
-["Algon"			,6],
-["Iroq"				,5],
+
 ["Mawp"				,5],
 ["Pitt"				,7],
 ["Cruz"				,6],
@@ -573,10 +566,13 @@
 ["Ult"				,6],
 ["Caribou"			,7],
 ["Vlad"				,7],
+// Zelda stuff
 ["Goron"			,6],
 ["Xiao"				,7],
+// 
 ["Zap"				,7],
 ["Spion"			,6],
+//
 ["Mono"				,7],
 ["Hal"				,7],
 ["Bouscotte"		,5],
@@ -587,11 +583,13 @@
 ["Def"				,7],
 ["Wap"				,8],
 ["Urtica"			,6],
+// 
 ["Bogart"			,7],
 ["Clint"			,8],
+// 
 ["Pedro"			,8],
 ["Habs"				,6],
-["Chesbra"			,6],
+// 
 ["Pepito"			,8],
 ["Hervé"			,7],
 ["Pablo"			,8],
@@ -617,6 +615,7 @@
 ["Nico"				,8],
 ["Digi"				,7],
 ["Fwed"				,7],
+// 
 ["Pesto"			,8],
 ["Sriracha"			,5],
 ["Sambal"			,5],
@@ -624,15 +623,19 @@
 ["Tabasco"			,7],
 ["Worcester"		,6],
 ["Alfredo"			,7],
+// 
 ["Ramon"			,7],
 ["Chilli"			,7],
 ["Gonzo"			,8],
 ["Bonzo"			,8],
 ["Foonzo"			,6],
+// 
 ["Laurier"			,6],
 ["Masson"			,6],
+// 
 ["Nugget"			,8],
 ["Silex"			,6],
+// Starre Trekke
 ["Spuck"			,7],
 ["Kerk"				,7],
 ["Bones"			,9],
@@ -648,8 +651,10 @@
 ["Quark"			,8],
 ["Zefram"			,8],
 ["Khan"				,8],
+// 
 ["Mulder"			,6],
 ["Scully"			,6],
+// 
 ["Alpha"			,7],
 ["Beta"				,7],
 ["Bravo"			,7],
@@ -671,6 +676,7 @@
 ["Victor"			,8],
 ["Zulu"				,7],
 ["Dash"				,8],
+// 
 ["Brab"				,8],
 ["Magnus"			,8],
 ["Tesla"			,7],
@@ -689,13 +695,16 @@
 ["Dollard"			,6],
 ["Micro"			,6],
 ["Macro"			,6],
+// 
 ["Pog"				,8],
 ["Slammer"			,5],
+// 
 ["Nab"				,8],
 ["Snafu"			,6],
 ["Snag"				,7],
 ["Emma"				,8],
 ["Rando"			,7],
+// 
 ["Hanjo"			,7],
 ["Rein"				,6],
 ["Marcy"			,5],
@@ -714,9 +723,10 @@
 ["Sym"				,6],
 ["Sumbra"			,6],
 ["Grusse"			,6],
-["Celeste"			,7],
-["Steak"			,8],
-["Shatojon"			,6],
+// 
+
+
+// 
 ["Sodesne"			,5],
 ["Sodeska"			,5],
 ["Moshi"			,7],
@@ -729,14 +739,17 @@
 ["Sukides"			,6],
 ["Yabai"			,8],
 ["Majide"			,6],
+// 
 ["Zenith"			,6],
 ["Nadir"			,6],
 ["Meridian"			,5],
 ["Zodiac"			,6],
+["Apex"				,5],
 ["Azimuth"			,5],
 ["Horizon"			,6],
 ["Almucantar"		,4],
 ["Azim"				,8],
+// Moons
 ["Phobos"			,5],
 ["Deimos"			,5],
 ["Io"				,5],
@@ -839,9 +852,9 @@
 ["Hydra"			,5],
 ["Kerberos"			,4],
 ["Styx"				,5],
+// 
 ["Blarg"			,7],
 ["Tonka"			,8],
-["Sten"				,7],
 ["Pebble"			,8],
 ["Patapon"			,9],
 ["Gregory"			,8],
@@ -849,10 +862,12 @@
 ["Minimo"			,8],
 ["Minigo"			,7],
 ["Baloo"			,8],
+// Bungie
 ["Shishka"			,7],
 ["Frankie"			,7],
 ["Blam"				,7],
 ["Marty"			,7],
+// 
 ["Zugz"				,7],
 ["Wang"				,8],
 ["Bloke"			,7],
@@ -862,7 +877,188 @@
 ["Tiberiu"			,7],
 ["Beige"			,8],
 ["Edgor"			,8],
-["Mym"				,8],
+// 
 ["Mordak"			,6],
-["Gardakan"			,5]
+["Gardakan"			,5],
+// 
+["Pentagaramas"		,4],
+// 
+["Kablaros"			,5],
+["Blarp"			,5],
+["Warka"			,5],
+["Flarka"			,5],
+["Flim"				,5],
+["Flam"				,5],
+// Cities
+["Cork"				,5],
+["Dublin"			,5],
+["Ulan"				,5],
+["Bator"			,5],
+["Reyk"				,5],
+["Javik"			,5],
+["Zagreb"			,5],
+// 
+["Bridgeon"			,5],
+["Fig"				,5],
+["Dunham"			,5],
+["Dakar"			,5],
+["Donegal"			,5],
+["Clon"				,5],
+["Eirik"			,5],
+["Avon"				,5],
+["Wells"			,5],
+["Sofia"			,5],
+["Gwent"			,5],
+["Xor"				,5],
+// 
+["Poco"				,5],
+["Loco"				,5],
+["Dico"				,5],
+// FFX
+["Zidane"			,5],
+["Tidus"			,5],
+["Squall"			,5],
+// Mass effect
+["Mako"				,5],
+["Wrex"				,5],
+["Shep"				,8],
+// Morrowind
+["Vivec"			,5],
+["Nerevar"			,5],
+// Random keyboard blurbs
+["Asdofni"			,4],
+["Coikun",			,4],
+["Ouimedi",			,4],
+["Zdora",			,4],
+["Biou",			,4],
+["Biwo",			,4],
+["Yutep",			,4],
+["Fibib",			,4],
+["Portiwibi",		,4],
+["Wiju",			,4],
+["Bitwit",			,4],
+["Owie",			,4],
+["Preof",			,4],
+["Vasof",			,4],
+["Phigg",			,4],
+// 
+["Adolf"			,5],
+["Quack"			,5],
+["Spook"			,5],
+["Hutch"			,5],
+["Pope"				,5],
+["Pontif"			,5],
+["Zouave"			,5],
+["Cléo"				,5],
+["César"			,5],
+["Bariel"			,5],
+["Dun"				,5],
+["Harpoon"			,5],
+["Honni"			,5],
+["Bella"			,5],
+["Casque"			,5],
+["Bidon"			,5],
+["Pompe"			,5],
+["Fridge"			,5],
+["Cacaro"			,5],
+["Jean"				,5],
+["Poishish"			,5],
+["Ralf"				,5],
+
+["Grabuge"			,5],
+["Zizanie"			,5],
+["Dompe"			,5],
+["Bestof"			,5],
+// Belgium
+["Flamand"			,5],
+["Wallon"			,5],
+// 
+["Camille"			,5],
+["Poussin"			,5],
+["Parapente"		,5],
+["Quille"			,5],
+["Querbes"			,5],
+["Borf"				,5],
+["Voldo"			,5],
+// Weekdays
+["Samedi"			,5],
+["Lundi"			,5],
+["Mardi"			,5],
+["Mercredi"			,5],
+["Jeudi"			,5],
+["Vendredi"			,5],
+["Dimanche"			,5],
+// Dinos
+["Stego"			,5],
+["Ankylo"			,5],
+["Bronto"			,5],
+["Apato"			,5],
+// 
+["Boqoub"			,5],
+["Peu"				,5],
+["Faque"			,5],
+["Lorien"			,5],
+// Pacific island
+["Ahu"				,5],
+["Moai"				,5],
+["Toromiro"			,5],
+["Anakena"			,5],
+["Makemake"			,5],
+["Orongo"			,5],
+["Rano"				,5],
+["Kau"				,5],
+["Cook"				,5],
+["Rongo"			,5],
+["Hakan"			,5],
+["Samoa"			,5],
+["Pitcairn"			,5],
+// 
+["Acacia"			,5],
+["Mesquite"			,5],
+["Orliac"			,5],
+["Fourat"			,5],
+["Bomai"			,5],
+["Yosep"			,5],
+["Sonia"			,5],
+["Claudio"			,5],
+["Proin"			,5],
+["Bibendum"			,5],
+// Ugh
+["Kassle"			,1],
+["Storry"			,1],
+// 
+["Patati"			,5],
+["Patata"			,5],
+// 
+["Patatra"			,5],
+["Bronton"			,5],
+// Science!
+["Tokamak"			,5],
+["Heliac"			,5],
+// Dragonboule
+["Gohan"			,5],
+["Goku"				,5],
+// Scientists
+["Helmut"			,5],
+["Leibniz"			,5],
+["Newton"			,5],
+// Sailing
+["Bimini"			,5],
+["Dodger"			,5],
+["Dinghy"			,5],
+// Native American
+["Calumet"			,5],
+["Mogollon"			,5],
+["Micmac"			,6],
+["Huron"			,7],
+["Algon"			,6],
+["Iroq"				,5],
+["Chaco"			,5],
+["Hokam"			,5],
+["Anasazi"			,5],
+["Hopi"				,5],
+["Zuni"				,5],
+["Yavapai"			,5],
+["Patayan"			,5],
+["Yaqui"			,5]
 ]
