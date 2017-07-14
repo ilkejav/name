@@ -362,6 +362,8 @@
 ["Bistro"			,4],
 ["Pomkin"			,7],
 ["Grabel"			,6],
+["Grabelshpouet"	,6],
+["Pouet"			,6],
 ["Spoutnik"			,7],
 ["Picsou"			,6],
 ["Snoro"			,6],
@@ -538,7 +540,6 @@
 ["Pico"				,8],
 ["Moldu"			,6],
 ["Dank"				,7],
-
 ["Dinkle"			,7],
 ["Ocifer"			,5],
 ["Bana"				,7],
@@ -546,10 +547,11 @@
 ["Papi"				,8],
 ["Taco"				,9],
 ["Chipo"			,8],
-
 ["Mawp"				,5],
+// 
 ["Pitt"				,7],
 ["Cruz"				,6],
+// 
 ["Coach"			,7],
 ["Sarge"			,7],
 ["Chief"			,7],
@@ -633,7 +635,7 @@
 // 
 ["Nugget"			,8],
 ["Silex"			,6],
-// Starre Trekke
+// Starre Treque
 ["Spuck"			,7],
 ["Kerk"				,7],
 ["Bones"			,9],
@@ -702,7 +704,7 @@
 ["Snag"				,7],
 ["Emma"				,8],
 ["Rando"			,7],
-// 
+// Oveurwatche
 ["Hanjo"			,7],
 ["Rein"				,6],
 ["Marcy"			,5],
@@ -893,7 +895,6 @@
 ["Ulan"				,5],
 ["Bator"			,5],
 ["Reyk"				,5],
-["Javik"			,5],
 ["Zagreb"			,5],
 // 
 ["Bridgeon"			,5],
@@ -979,6 +980,7 @@
 // Belgium
 ["Flamand"			,5],
 ["Wallon"			,5],
+["Bruxel"			,5],
 // 
 ["Camille"			,5],
 ["Poussin"			,5],
@@ -1005,7 +1007,7 @@
 ["Peu"				,5],
 ["Faque"			,5],
 ["Lorien"			,5],
-// Pacific island
+// Native pacific
 ["Ahu"				,5],
 ["Moai"				,5],
 ["Toromiro"			,5],
@@ -1057,7 +1059,7 @@
 ["Bimini"			,5],
 ["Dodger"			,5],
 ["Dinghy"			,5],
-
+// 
 ["Rufus"			,5],
 ["Ruckus"			,5],
 ["Raka"				,5],
@@ -1095,6 +1097,82 @@
 ["Oonf"				,5],
 ["Junior"			,5],
 ["Senior"			,5],
+["Covfefe"			,5],
+//
+["Connor"			,5],
+["Duncan"			,5],
+["MacLeod"			,5],
+//
+["Piortue"			,5],
+["Tesla"			,5],
+["Edison"			,5],
+["Diesel"			,5],
+["Nobel"			,5],
+["Rudolf"			,5],
+//
+["Watson"			,5],
+["Holmes"			,5],
+//
+["Watt"				,5],
+["Aubergine"		,5],
+["Watatatow"		,5],
+["Bednar"			,5],
+["Hoctor"			,5],
+["Morton"			,5],
+["Gordon"			,5],
+["Koziol"			,5],
+["Mikey"			,5],
+["Sagan"			,5],
+["Sernine"			,5],
+["Baron"			,5],
+["Placebo"			,5],
+["Tug"				,5],
+["Harlan"			,5],
+["Warp"				,5],
+["Baloo"			,5],
+["Mowgli"			,5],
+["Plunkbat"			,5],
+["Cicero"			,5],
+["Astrid"			,5],
+["Tittle"			,5],
+["Noa"				,5],
+//
+["Gib"				,5],
+["Frag"				,5],
+// HCE default names
+["Stumpy"			,7],
+["Donut"			,7],
+["Wilshire"			,7],
+["Disco"			,7],
+["Darling"			,7],
+["Whicker"			,7],
+["Wheezy"			,7],
+["Saucy"			,7],
+["Hambone"			,7],
+["Caboose"			,7],
+["Stompy"			,7],
+["Mopey"			,7],
+["Dopey"			,7],
+["Dasher"			,7],
+["Hollywood"		,7],
+["Tooth"			,7],
+["Noodle"			,7],
+["King"				,7],
+["Prancer"			,7],
+["Grumpy"			,7],
+["Cameron"			,7],
+// 
+["Bacta"			,5],
+["Kolto"			,5],
+["Medigel"			,5],
+["Mephisto"			,5],
+["Nexus"			,5],
+["Plasmid"			,5],
+["Lax"				,5],
+["Azrael"			,5],
+// 
+["Zoldorf"			,5],
+["Zarldo"			,5],
 // Native American
 ["Calumet"			,5],
 ["Mogollon"			,5],
